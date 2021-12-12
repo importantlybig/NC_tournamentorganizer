@@ -1,0 +1,19 @@
+.my-card-header  {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.my-card-header:hover{
+    background-color: #2c3e5094;
+}
+
+.header-item {
+    font-size: 1em;
+    margin-left: 2em;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.header-item-control {
+    font-size: 1em;
+    margin-left: auto;
+}

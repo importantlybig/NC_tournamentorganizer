@@ -1,0 +1,25 @@
+www.domain.com/welcome -> Màn hinh landing page
+www.domain.com/login   -> Màn hình login  
+www.domain.com/sadm    -> Màn hình quản lí account (super-admin)
+www.domain.com/user    -> Màn hình user profile 
+----------------------------------------------------------------
+------------------------------------------------------------------
+/node_modules
+/public
+/src
+    /assets
+    /components
+        /UI
+          /Modal
+          /Card
+    /hooks
+    /lib
+    /pages 
+    /store
+    App.js
+    index.js
+
+
+     
+    
+   

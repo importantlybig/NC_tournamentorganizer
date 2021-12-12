@@ -1,0 +1,16 @@
+.my-title {
+    color: white;
+    margin-top: 1rem;
+ 
+
+}
+.my-subtitle {
+    color: white;
+    max-width: 25rem;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.my-container {
+    background-color: rgb(42, 51, 51);
+}

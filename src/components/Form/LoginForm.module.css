@@ -1,0 +1,19 @@
+.my-form-wrapper {
+    max-width: 25em;
+    margin-top: 1em;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.my-button {
+    color: #0f2147 !important;
+    border-color: #0f2147 !important;
+    background-color: white !important;
+}
+
+.my-button:hover {
+    color: #0f2147;
+    background-color: whitesmoke;
+}
+
