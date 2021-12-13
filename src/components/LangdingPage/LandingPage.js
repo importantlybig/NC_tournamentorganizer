@@ -11,7 +11,7 @@ const LandingPage = () => {
 				
 				<div className={`${classes['body-padding']}`}>
 					<h2>MANAGE YOUR TOURNAMENT MORE EFFICIENCY</h2>
-					<p className={`lead`}>
+					<p className={`h6 lead`}>
 						Lorem Ipsum is simply dummy text of the printing and typesetting
 						industry. Lorem Ipsum has been the industry's standard dummy text
 						ever since the 1500s, when an unknown printer took a galley of type
